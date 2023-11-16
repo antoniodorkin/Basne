@@ -1,6 +1,23 @@
 # Basne
 
-# Ukleti Kraljević i Čelik-Henrik – e-Lektire
+# Sadržaj
+
+ 1. Ukleti Kraljević i Čelik-Henrik   15. Crvenkapica
+ 2. Klatež  16. Sedam gavrana
+ 3. Priča o čovjeku koji je htio da nauči strahovati  17. Bremenski gradski svirači
+ 4. Palčić  18. Mudra seljanka
+ 5. Vuk i sedmoro jaradi   19. Trnoružica
+ 6. Tri čovječuljka u šumi  20. Siromah i bogataš
+ 7. Vjerni Ivan   21. Kralj Bradonja
+ 8. Nahod-ptica  22. Doktor Sveznalica
+ 9. Dvanaestorica braće  23. Snjeguljica
+ 10. Mudra Jelka 24. Mudri ljudi
+ 11. Šestorica obilaze svijetom 25. Braco i seka
+ 12. Pas i vrabac   26. Siromašni mlinarski momčić i maca
+ 13. Pepeljuga   27. Sretni Ivo
+
+
+# 1. Ukleti Kraljević i Čelik-Henrik – e-Lektire
 
 > U staro doba, kad su se želje još ispunjale, živio neki kralj, koji je imao sve same lijepe kćeri, no najmlađa bila tako lijepa, te se i sunce, koje je toliko svijeta vidjelo, uvijek divilo…
 
@@ -95,7 +112,7 @@ ondje žabom kad ste bili._
 
 Još je dvaput prasnulo, a kraljević je sveđ mislio, da se kola lome. Ali to samo obruči spadahu sa srca vjernome Henriku, jer mu gospodar bijaše slobodan i sretan.
 
-# Klatež – e-Lektire
+# 2. Klatež – e-Lektire
 
 > Reče pjetlić kokici: – U ovo vrijeme orasi dozrijevaju; hajdemo zajedno na brdo, da ih se jedamput najedemo, dok ih vjeverica ne odnese. – Dobro! – pristane kokica. – Hajde da se razveselimo.
 
@@ -134,7 +151,7 @@ Nekoliko sati poslije toga ustane krčmar, umije se i htjedne se ručnikom otrti
 
 Sad se istom razgnjevi posumnjavši na goste, koji su sinoć kasno došli. Ode da ih vidi, a kad tamo, od njih ni traga ni glasa. Zakle se, da nikad više neće u svoju kuću primiti klateži, što mnogo troši, ništa ne plaća, a povrhu, da se zahvali, zbija rđave šale.
 
-# Priča o čovjeku koji je htio da nauči strahovati – e-Lektire
+# 3. Priča o čovjeku koji je htio da nauči strahovati – e-Lektire
 
 > Bio jednom otac, što je imao dva sina: stariji mu bio pametan i mudar, te se u svemu snalazio, a mlađi glup, te ništa nije shvaćao ni učio. Videći mlađega, ljudi govorahu: »S ovim će otac imati muke!
 
@@ -423,7 +440,7 @@ Kada je mladi kralj noću spavao, skine mu žena pokrivač i saspe na njega vjed
 
 – Ah jeza me hvata, jeza me hvata, draga ženo! Da, sad znam, šta znači strahovati.
 
-# Palčić – e-Lektire
+# 4. Palčić – e-Lektire
 
 > Bio neki siromašni seljak pa uvečer sjedio kod ognjišta i poticao vatru, dok mu žena prela. Jednom on reče ženi: – Doista je žalosno što nemamo djece! Tako je tiho u nas, a u drugim kućama bučno i…
 
@@ -600,7 +617,7 @@ Zatim zamahne i svom snagom kresne vuka po glavi, te se zvijer sruši mrtva. Nap
 
 – A mi te ni za što na svijetu više ne prodajemo – govorahu roditelji milujući i grleći Palčića. Dadoše mu da jede i pije, sašiju mu novu odjeću, jer se ona, koja bijaše na njemu, sva od puta otrcala.
 
-# Vuk i sedmoro jaradi – e-Lektire
+# 5. Vuk i sedmoro jaradi – e-Lektire
 
 > Bila jednom stara koza; imala sedmoro jaradi, a voljela ih kao što majka voli svoju djecu. Jednoga se dana spremala u šumu po nešto krme, te ih sazva sve sedmoro i reče: – Draga djeco, ja ću u šumu…
 
@@ -670,77 +687,158 @@ Kad dođe studencu i sagne se da pije, povuče ga teško kamenje u vodu, i on se
 
 – Vuk je mrtav, vuk je mrtav! – i sa svojom majkom zaplesaše okolo studenca.
 
-# Vuk i sedmoro jaradi – e-Lektire
+# 6. Tri čovječuljka u šumi – e-Lektire
 
-> Bila jednom stara koza; imala sedmoro jaradi, a voljela ih kao što majka voli svoju djecu. Jednoga se dana spremala u šumu po nešto krme, te ih sazva sve sedmoro i reče: – Draga djeco, ja ću u šumu…
+
+> Bio neki čovjek pa mu umrla žena, a bila opet neka žena pa joj umro muž: čovjek imao kćer, i žena imala kćer. Obje djevojke bile dobre druge. Išle zajedno šetati, pa se poslije šetnje svratile udovici…
 
 ---
-Bila jednom stara koza; imala sedmoro jaradi, a voljela ih kao što majka voli svoju djecu. Jednoga se dana spremala u šumu po nešto krme, te ih sazva sve sedmoro i reče:
+Bio neki čovjek pa mu umrla žena, a bila opet neka žena pa joj umro muž: čovjek imao kćer, i žena imala kćer. Obje djevojke bile dobre druge. Išle zajedno šetati, pa se poslije šetnje svratile udovici u kuću.
 
-– Draga djeco, ja ću u šumu; čuvajte se vuka; dođe li, sve će vas izjesti. Taj se zlikovac često pretvara, no lako ćete ga prepoznati po njegovu oporu glasu i crnim šapama.
+– Slušaj – reći će udovica udovčevoj kćeri. – Kaži svome ocu, da bih ja pošla za njega; tebe bih svakog dana mlijekom prala i vinom pojila, a svoju bi kćerku vodom prala i vodom pojila.
 
-– Draga majko – jarčići će na to – bit ćemo mi na oprezu, možeš ići bez brige.
+Djevojka otiđe kući i pripovjedi ocu, što joj je udovica rekla. Nato će otac:
 
-Stara zamekeće i mirno se zaputi.
+– Šta da radim? Ženidba je radost, ali je i muka.
 
-Ne potraje dugo, kadli netko pokuca na kućna vrata i vikne:
+Budući da se ne mogaše odlučiti, izu je čizme i reče:
 
-– Otvorite, draga djeco, došla vam je majka i svakomu vam nešto donijela.
+– Ovoj je čizmi đon šupalj: uzmi je, popni se na tavan, objesi je o veliki čavao i ulij vode u nju. Ako drži vodu, opet ću se ženiti, ako voda procuri, neću.
 
-No jarčići po oporu glasu prepoznaju vuka te odvrate:
+Djevojka učini, kako joj bi naređeno. Voda stegne rupu i čizma se napuni do vrha. Kad to otac čuje, uspne se na tavan, pa kad se uvjeri, da je tako, ode udovici, zaprosi je, i oni proslave svadbu.
 
-– Nećemo otvoriti, nisi ti naša majka; u nje je mio sitan glas, a u tebe opor; ti si vuk.
+Sutradan, kad obje djevojke ustadoše, pred muževljevom kćerkom mlijeko za pranje i vino za piće, a pred ženinom kćerkom voda za pranje i voda za piće. Drugo jutro voda za pranje i voda za piće ne samo pred ženinom kćerkom, već i pred muževljevom. A treće jutro voda za pranje i voda za piće pred muževljevom kćerkom, a mlijeko za pranje i vino za piće pred ženinom. I tako ostade.
 
-Nato vuk ode k sitničaru i kupi velik komad krede te ga proguta, a glas mu od toga bude ljepši. Zatim se vrati i pokuca na kućna vrata govoreći:
+Žena bude krvni neprijatelj svojoj pastorci, te ne znade kako da joj svaki dan što većma napakosti. A bijaše i nenavidna, jer je pastorka bila lijepa i mila, a kćer ružna i odurna.
 
-– Otvorite, draga djeco, došla vam je majka i svakomu vam nešto donijela.
+Jednom zimi, kad se sve smrzlo i zemlja otvrdla kao kamen, a brda i doline pod snijegom, načini maćeha haljetak od papira, zovne pastorku i reče joj:
 
-No vuk se zaboravio te na prozor stavio svoju crnu šapu, a kad djeca to opazila, vuku viknula:
+– Obuci ovaj haljetak, idi u šumu i naberi mi punu kotaricu jagoda; zaželjela sam ih se.
 
-– Nećemo otvoriti; u majke nam nisu noge crne, kao što su u tebe; ti si vuk.
+– Bože dragi – uzdahne djevojka – zimi ne rastu jagode; zemlja se smrznula, sve je pod snijegom. I onda, zašto da idem u haljetku od papira! Vani je tako studeno, da se dah smrzava; kroza nj će me vjetar primesti, a trnje će ga s mene sadrijeti.
 
-Vuk nato pohiti k pekaru i uzdahne:
+– Zar ćeš mi još i prkositi? – vikne maćeha. – Odlazi i da mi se nisi pojavila, dok ne nabereš punu kotaricu jagodâ. – Dade joj komadić tvrda kruha i doda:
 
-– Evo sam se udario u nogu, namaži mi je tijestom.
+– To ti je dosta za dan. – A u sebi pomisli: »Vani će se smrznuti i skapati od gladi, te mi više neće na oči.«
 
-Kad mu je pekar namazao šapu, požuri se vuk k mlinaru i zatraži da mu šapu pospe brašnom. Mlinar mislio, vuk će nekoga prevariti, pa se nećkao, ali mu vuk zaprijeti da će ga razderati ne učini li tako. Mlinar se preplaši i obijeli mu šapu. Da, takvi su ljudi. Sad zlikovac ode po treći put, pokuca na vrata, pa će nježno:
+Pastorka bijaše poslušna, obuče haljetak od papira i iziđe s kotaricom. Svukuda, nadaleko i naširoko, pusti snijeg, nigdje ni travke zelene. Kad stigne u šumu, opazi malu kućicu, a iz nje proviruju tri patuljka. Pozdravi ih i krotko pokuca na vrata. Oni viknu »naprijed«, i ona stupi u sobu, sjedne kraj peći na klupu te se stane grijati i jesti svoj doručak.
 
-– Otvorite mi djeco, draga vam se majčica vratila i svakomu vam nešto iz šume donijela.
+– Daj malo i nama! – zamole patuljci.
 
-No jarčići stanu vikati:
+– Evo – spremno će djevojka, pa raspolovi svoj komadić kruha i dade im polovicu.
 
-– Pokaži nam najprije svoju šapu, da znamo jesi li ti naša mila majčica.
+– A šta ćeš ti u svome haljetku po ovoj zimi u šumi?
 
-Vuk stavi šapu na prozor, pa kad jarčići vidješe da je bijela, pomisliše da je istina što vuk govori; otvoriše vrata, ali tko uniđe – vuk.
+– Ah – odgovori ona – moram nabrati punu kotaricu jagodâ, i ne smijem kući, dok ih ne naberem.
 
-Jarčići se uplašili i htjeli sakriti. Jedno jare skoči pod stol, drugo u postelju, treće u peć, četvrto u kuhinju, peto u ormar, šesto pod umivaonik, a sedmo u ormarić od zidne ure. No vuk ih nađe i redom, bez okolišanja, proguta: samo najmlađe, ono u ormariću, ne nađe. Kad se vuk nažderao, ode i leže na travu pod stablo te zaspa.
+Kad djevojka pojede svoj komadić kruha, dadoše joj patuljci metlu i rekoše:
 
-Naskoro zatim iz šume se vrati stara koza. Ah, šta imađaše vidjeti! Kućna vrata širom otvorena: stol, stolice, klupe – sve prevrnuto; od umivaonika ostale još samo krhotine, pokrivači i jastuci razbacani. Stane tražiti svoju djecu, ali ih nigdje ne mogaše naći. Zvaše ih redom po imenu, no nitko joj se ne odazva. Istom kad spomenu najmlađe, javi se sitan glasić:
+– Pometi pred stražnjim vratima snijeg.
 
-– Evo me, draga majčice, tu sam u ormariću.
+Kad je izišla, stanu se ta tri čovječuljka razgovarati:
 
-Ona izvadi jarčića, a on joj ispripovjedi kako je došao vuk i sve ostale proždro. Možete zamisliti kako je majka plakala za jadnom djecom.
+– Šta da joj poklonimo? Tako je čedna i dobra, pa i svoj je kruh s nama podijelila.
 
-U svojoj velikoj tuzi iziđe napokon stara iz kuće, a uza nju skakutalo najmlađe jare. Kad dođe na livadu, spazi vuka gdje leži pod stablom i hrče, da sve granje dršće. Stane ga sa svih strana promatrati i smotri kako mu se u natrpanom trbuhu nešto miče i praćaka. »Bože moj«, pomisli koza, »jadna djeca što ih je za večeru progutao, možda su još na životu?«
+– Poklanjam joj – javi se prvi – da bude svakim danom ljepša.
 
-Brže-bolje morade jare skokom kući po nožice, iglu i konac. Stara pohiti da nemani razreže mješinu, pa tek što zareza, već jedno jare proviri; kako razreže dalje, poiskače svih šestoro redom; svi još bijahu na životu, neozlijeđeni, jer ih je neman u brzini prožderala čitave. Kolike li radosti! Milovahu svoju dragu majku i skakahu kao krojač što slavi svadbu. Tada im majka reče:
+– Poklanjam joj – nastavi drugi – da joj zlatnici padaju iz usta, kad god progovori.
 
-– Idite i donesite kamenja, da njime napunimo trbuh bezbožnoj životinji, dok još spava.
+– A ja – završi treći – da dođe kralj i da se njome oženi!
 
-Svih sedmero jarića dovuku brže-bolje kamenja i ture ga vuku u trbuh, koliko je god moglo stati. Zatim ga stara brzo zašije, a vuk niti što osjeti, niti se mače.
+Djevojka je, međutim, učinila kako joj patuljci naložiše; pomela snijeg iza male kućice i – šta mislite, što je našla? Sve same zrele jagode; sasvim tamnocrvene provirivahu iz snijega. Sva radosna nakupi punu kotaricu, zahvali čovječuljcima, rukuje se s njima, otrči kući i jagode preda maćehi. Čim je ušla i zaželjela »dobra večer«, ispadne joj zlatnik iz usta Zatim pripovjedi, šta je u šumi doživjela, i pri svakoj bi joj riječi ispao zlatnik iz usta, te je naskoro soba bila pokrivena zlatom.
 
-Kad se napokon naspavao, vuk ustane, a kako ga je od kamenja u želucu morila velika žeđ, pođe do studenca da se napije vode. No kad je počeo hodati i kretati se tamo-amo, zalupkalo u njemu kamenje i zagrogotalo. Nato će vuk ljutito:
+– Gle obijesti – vikne polusestra. – Tako se razbacivati novcem. – A potajno u sebi bijaše zavidna, te i sama poželje, da ode u šumu brati jagode.
 
-_»Što mi tako u trbuhu  
-sve se gurka tamo-amo?  
-Ne, to nisu mlada jarad,  
-već kamenje teško samo.«_
+– Ne, draga kćerkice – usprotivi se mati. – Hladno je, mogla bi ozepsti.
 
-Kad dođe studencu i sagne se da pije, povuče ga teško kamenje u vodu, i on se uduši. Kad to vidješe jarići, dotrčaše i povikaše:
+Budući da je djevojka navaljivala, mati popusti; sašije joj krasan kaput od krzna, da ga obuče, i dade joj na put krišku kruha s maslacem i kolač.
 
-– Vuk je mrtav, vuk je mrtav! – i sa svojom majkom zaplesaše okolo studenca.
+Djevojka pođe u šumu, pravo k onoj kućici. I opet proviriše tri patuljka, ali ih ona ne pozdravi, već nasrne u sobu, a da ih i ne pogleda; sjedne kraj peći i stane jesti svoj doručak.
 
-# Vjerni Ivan – e-Lektire
+– Daj nam malo toga! – zaištu patuljci.
+
+– I meni je malo – odgovori djevojka. – Kako ću još i drugima dati?
+
+Kad je dojela, patuljci će joj:
+
+– Evo ti metla, pa pometi ispred stražnjih vrata.
+
+– Pometite sami! – odsiječe ona. – Nisam ja vaša sluškinja.
+
+Kad vidje da joj neće ništa pokloniti, iziđe na vrata.
+
+Sad se kepeci porazgovore među sobom:
+
+– Šta ćemo joj pokloniti? Tako je neuljudna i ima rđavo, ružno srce, što svakom nenavidi?
+
+– Poklanjam joj – javi se prvi – da bude svaki dan ružnija,
+
+– Poklanjam joj – nastavi drugi – da joj pri svakoj riječi, koju izgovori, iskoči žaba krastača iz usta.
+
+– A ja – završi treći – da umre nesretnom smrću.
+
+Djevojka je, međutim, tražila jagode, ali kad ih nije našla, ode zlovoljna kući. Čim je otvorila usta da pripovjedi svojoj majci, šta je u šumi vidjela, iskoči joj iz njih žaba krastača, te im se svima zgadi.
+
+Nato se maćeha razljuti još više, te je samo smišljala kako da pastorci, što je svakim danom postajala ljepša, učini kakvu nepodopštinu, Napokon uzme kotao, navjesi ga na vatru i stane kuhati pređu. Kad bijaše kuhana, objesi je jadnoj djevojci preko ramena, dade joj sjekiru, da na zaleđenoj rijeci u ledu probije rupu te pređu ispere.
+
+Bila je poslušna, i pođe na rijeku, da prosiječe rupu u ledu. Dok je prosijecala, dođu prekrasna kola, u kojima je sjedio kralj, Kola se zaustave i kralj zapita djevojku:
+
+– Dijete moje, tko si ti i šta radiš ovdje?
+
+– Sirota sam djevojka i evo ispirem pređu.
+
+Kralj se sažali na nju te nastavi:
+
+– Bi li htjela poći sa mnom?
+
+– Vrlo rado! – veselo će djevojka, sva sretna što neće više materi i sestri na oči. Uđe u kola i odveze se s kraljem; a kad stigoše u dvore, proslave svadbu u raskoši i sjaju, onako, kako su joj obećali patuljci.
+
+Nakon godinu dana rodi mlada kraljica sina, pa kad je maćeha saznala o velikoj sreći, dođe sa svojom kćeri u dvore – kao u pohode.
+
+Kad jednoga dana kralj iziđe i nikoga ne bi kod kuće, dohvati ta zlobna žena kraljicu za glavu, a njezina kći za noge, dignu je iz kreveta i bace kroz prozor u rijeku, što je tuda protjecala. Zatim njezina ružna kći legne u postelju, a stara je pokrije preko glave. Kad se kralj vrati i htjedne razgovarati sa svojom ženom, vikne stara:
+
+– Mir, mir! Sada je to nemoguće; ona leži sva u znoju, danas je ostavite u miru.
+
+Kralj ne sluteći ništa zlo, dođe istom drugi dan, pa kad je sa ženom razgovarao i ona mu odgovarala, iskoči joj pri svakoj riječi žaba krastača iz usta, a inače je ispadao zlatnik. Kad kralj zapita, šta to znači, objasni mu stara, da je to od velikoga znojenja, ali da će proći.
+
+Noću opazi kuharov pomoćnik, kako je kroz žlijeb doplivala patka i rekla:
+
+_Kralju gdje se kriješ?  
+Spavaš ili bdiješ?_
+
+A kad kuharev pomoćnik ne kaza ništa patka priupita:
+
+– Šta mi gosti rade?
+
+Pomoćnik joj veli:
+
+– Tvrdim snom se slade.
+
+Patka još zapita:
+
+– Šta mi radi čedo moje?
+
+On joj odgovori:
+
+– U kolijevci zaspalo je.
+
+Tada u obličju kraljice pođe gore, podoji dijete, protrese mu posteljicu, pokrije ga i opet kao patka otpliva kroza žlijeb. Tako je dolazila dvije noći, a u trećoj reče kuharovu pomoćniku:
+
+– Idi i kaži kralju neka uzme mač i njime na pragu tri puta mahne nada mnom.
+
+Kuharov pomoćnik otrči kralju te mu to javi. Kralj dođe i mahnu tri puta mačem nad pojavom, i kako treći put mahnu – pred njim najednom njegova žena, živa i zdrava, kao što je i prije bila.
+
+Kralj se silno obradova. Ali kraljicu sakrije u sobi do nedjelje, kad je trebalo da se krsti dijete. Kada dijete bi kršteno, on upita:
+
+– Šta zaslužuje čovjek, koji drugoga uzme iz postelje te ga baci u vodu?
+
+– Ništa drugo – odgovori maćeha – nego da se zločinac strpa u bačvu iznutra načičkanu čavlima, pa onda bačvu gurnuti nizbrdo u rijeku.
+
+– Izrekla si sebi osudu – odrešito će kralj.
+
+Naloži da se donese takva bačva i u nju ugura maćeha zajedno sa svojom kćeri. Zatim u utor umetnu dno i tako zatvorenu bačvu pustiše nizbrdo, te se otkotrlja u rijeku.
+
+# 7. Vjerni Ivan – e-Lektire
 
 > Živio jednom neki kralj, koji je bio star i bolestan; misleći da će mu postelja, na kojoj je ležao, biti samrtnička, reče: – Neka k meni dođe vjerni Ivan. Vjerni Ivan bijaše mu najdraži sluga…
 
@@ -917,7 +1015,7 @@ Kralj se uzraduje kad je vidio da mu žena misli kao što je i on mislio, pa otv
 
 Otada življahu zajedno u sreći i blaženstvu sve do svoje smrti.
 
-# Nahod-ptica – e-Lektire
+# 8. Nahod-ptica – e-Lektire
 
 > Bio jednom neki šumar, pa išao u šumu u lov; kad je stigao u šumu, očuje cviljenje, kao da plače malo dijete. Pođe on prema mjestu odakle je taj cvil dopirao, pa napokon dođe do nekoga visokog stabla…
 
@@ -994,7 +1092,7 @@ No djeca već izdaleka opaziše trojicu momaka i kuharicu, što klima za njima.
 
 Kad kuharica prispije i opazi ribnjak, prigne se i htjedne ga ispiti. Ali patka brže dođe, uhvati je kljunom za glavu i povuče u vodu, i stara se vještica uduši. Djeca se veselo vrate kući. Ako nisu umrla, onda još i danas žive.
 
-# Dvanaestorica braće – e-Lektire
+# 9. Dvanaestorica braće – e-Lektire
 
 > Bijahu jednom kralj kraljica i življahu sa svoje dvanaestoro djece, sve samih dječaka. Jednoga dana reče kralj svojoj ženi: – Bude li trinaesto dijete, što ćeš ga roditi, djevojčica…
 
@@ -1117,7 +1215,7 @@ U dvorištu nalože veliku vatru, gdje je kraljicu trebalo spaliti. Kralj staja�
 
 Braća pogaze vatru, ugase plamen, oslobode svoju dragu sestru te je stanu milovati. Budući da je sada smjela otvoriti usta i govoriti, iskaza kralju, zašto bijaše nijema i zašto se nigda nije smijala. Kralj se obradova, kad ču, da je nevina. Otada življahu svi zajedno u slozi do smrti. Opaku svekrvu osudiše i staviše u bure puno vrela ulja i otrovnih zmija, i ona tako umrije ružnom smrću.
 
-# Mudra Jelka – e-Lektire
+# 10. Mudra Jelka – e-Lektire
 
 > Bio neki čovjek, koji imađaše kćer, što se zvala mudra Jelka. Kad je odrasla, reče otac: – Udat ćemo je. – Da – potvrdi mati – ako samo dođe, tko bi je htio. Napokon dođe izdaleka čovjek, po imenu Ivo…
 
@@ -1224,7 +1322,7 @@ Otrči kući, ali vrata bijahu zaključana; zatim pokuca na prozor i vikne:
 
 Kad su ljudi čuli zvečanje zvončića, ne htjedoše joj otvoriti, i tako se mudra Jelka nigdje ne mogaše skloniti. Napokon pobjegne iz sela, i više je nitko ne vidje.
 
-# Šestorica obilaze svijetom – e-Lektire
+# 11. Šestorica obilaze svijetom – e-Lektire
 
 > Bio neki čovjek, koji je umio svašta; služio u ratu valjano i hrabro, no kad je rat svršio, otpustili ga davši mu tri filira popudbine. »Čekaj, nećemo baš tako. Nađem li pravih ljudi, dat će mi kralj…
 
@@ -1361,7 +1459,7 @@ Kad je kralj čuo njihovu odluku, reče:
 
 A naša šestorica odnesoše blago kući, podijeliše ga između sebe i poživješe zadovoljno do smrti.
 
-# Pas i vrabac – e-Lektire
+# 12. Pas i vrabac – e-Lektire
 
 > Imao ovčarski pas loša gospodara, koji ga pustio da gladuje. Kako nije mogao kod njega više izdržati, pođe žalostan u svijet. Na cesti ga sretne vrabac i zapita: – Brate garove, zašto si tužan?
 
@@ -1478,7 +1576,7 @@ Kočijaš pruži ženi sjekiru i urlikne:
 
 Žena udari, ali promaši, smjeri kočijaša u glavu, i on se sruši mrtav. Vrabac uzleti i odleti.
 
-# Pepeljuga – e-Lektire
+# 13. Pepeljuga – e-Lektire
 
 > Oboljela žena nekoga bogatoga čovjeka, pa kad je osjetila da joj se približava smrt, pozvala svoju jedinicu kćer k postelji te joj rekla: – Drago dijete, budi čedna i dobra, pa će ti uvijek dobro biti…
 
@@ -1649,7 +1747,7 @@ Kliknuvši, slete sa drveta i sjednu Pepeljugi na ramena, jedna s lijeve, druga 
 
 Kad je trebalo slaviti svadbu, dođoše neiskrene polusestre, da se dodvore i da s Pepeljugom sreću dijele. Kad su zaručnici pošli u crkvu, bila je najstarija sestra s desne, a najmlađa s lijeve strane, i golubice iskljuju svakoj po jedno oko. A kad su izlazili iz crkve, bila je najstarija s lijeve, a najmlađa s desne strane; i golubice iskljuju svakoj drugo oko. I tako za svoju zlobu i neiskrenost biše kažnjene sljepoćom za čitav život.
 
-# Mirko i Milka – e-Lektire
+# 14. Mirko i Milka – e-Lektire
 
 > Bio čovjek, po imenu Mirko, i žena, po imenu Milka; oni se uzeli i počeli živjeti kao mladi bračni drugovi. Jednoga dana reče Mirko: – Milka, ja idem orati, pa dok se vratim, gledaj da bude štogod…
 
@@ -1878,7 +1976,7 @@ Milka otiđe u polje i stane čupati, pa kako bijaše lijena nije se htjela uspr
 
 – Eno vraga! – vikne župnik i njih dvojica stanu bježati; župnik od straha trčaše bolje svojom hromom nogom, nego što je čovjek, koji ga pridržavaše, grabio svojim zdravim nogama.
 
-# Crvenkapica – e-Lektire
+# 15. Crvenkapica – e-Lektire
 
 > Bila jednom mala draga djevojčica, koju bi svatko zavolio čim bi je ugledao, a njezina je baka voljela tako da nije znala kako da djetetu ugodi. Jednom joj poklonila kapicu od crvena baršuna…
 
@@ -1955,7 +2053,7 @@ Nato iziđe i stara baka, još živa; jedva disaše. Crvenkapica donese kamenja,
 
 Sve troje bijaše zadovoljno. Lovac oderao s vuka krzno i otišao kući; baka uživala u kolačima, pila vino što ga je donijela Crvenkapica, i opet se oporavila, a Crvenkapica umovala: »Ne smiješ nikad više sama skrenuti s puta i trčati u šumu, kada ti majka zabrani.«
 
-# Sedam gavrana – e-Lektire
+# 16. Sedam gavrana – e-Lektire
 
 > Imao neki čovjek sedam sinova, a nijedne kćeri, premda je želio; napokon se njegova žena opet ponada djetetu, i rodi djevojčicu. Radost bijaše velika, ali dijete slabašno i malo, pa ga dakle trebalo…
 
@@ -2011,7 +2109,7 @@ A kad sedmi ispi do dna, dokotrlja mu se prstenčić. Gavran pogleda i prepozna 
 – Bože daj – vikne – da je naša sestrica ovdje; onda smo izbavljeni.
 
 Kada djevojka prisluškujući za vratima oču tu želju, iziđe pred braću, i u taj čas poprime gavrani opet svoje ljudsko obličje. Svi se milovahu i cjelivahu, a onda veselo odoše doma.
-# Bremenski gradski svirači – e-Lektire
+# 17. Bremenski gradski svirači – e-Lektire
 
 > Imao čovjek magarca, koji je već mnogo godina strpljivo nosio vreće u mlinicu; ali magarcu snaga jenjavala, te on postajao sve nesposobniji za rad. Njegovu gospodaru pade na um da ga prestane hraniti…
 
@@ -2083,7 +2181,7 @@ Razbojnik nadao u bijeg što su ga noge nosile; stiže svome harambaši te mu ja
 – Uh, u kući je neka strahovita vještica; dahnula u mene i svojim me dugim noktima izgrebla; pred vratima čovjek; ubô me nožem u nogu; u dvorištu neka crna neman, ošinu me kijačom; a na krovu sjedi sudac i viče: »Dovedite mi lupeža!« A ja pobjegao.
 
 Otada se razbojnici više ne usudiše u kuću, a bremenskim se sviračima u njoj tako svidje, te više ne htjedoše iz nje.
-# Mudra seljanka – e-Lektire
+# 18. Mudra seljanka – e-Lektire
 
 > Bio neki siromašan seljak bez zemlje; imao samo malu kućicu i jedinicu kćer. Jednoga dana reče kći ocu: – Mogli bismo zamoliti svoga kralja i gospodara, da nam dâ nešto krčevine. Kad je kralj čuo o…
 
@@ -2155,7 +2253,7 @@ Napokon dođe njegova žena pa će mu reći:
 – Dragi kralju i gospodaru, zapovjedio si da iz dvora ponesem sa sobom što mi je najmilije i najdraže; no kako mi ništa nije milije i draže od tebe, povela sam tebe.
 
 – Draga ženo, ti treba da budeš moja, a ja tvoj – nadoveže kralj suznih očiju, i odvede je opet u kraljevske dvore, te se ponovo vjenčaju. Bit će da su živi i dandanas.
-# Trnoružica – e-Lektire
+# 19.Trnoružica – e-Lektire
 
 > Živjeli nekoć kralj i kraljica te iz dana u dan govorili: »Ah, da nam je dijete!« Ali im se želja nije ispunjala. Jednom se kraljica kupala, kadli iz vode iziđe žaba i progovori: – Tvoja će se želja…
 
@@ -2197,7 +2295,7 @@ Međutim, sto godina već prošlo, pa došao i dan kad se Ružica imala probudit
 Zatim pođe dalje i vidje gdje u dvorani svi dvorjanici spavaju, a gore pred prijestoljem leže kralj i kraljica. Kud god zađe, svuda tiho, te mogaše čuti svoj dah; napokon dođe do tornja i otvori vrata od izbice, u kojoj spavaše Ružica. Kraljevna ležaše, a bijaše tako lijepa, da kraljević ne mogaše sa nje očiju skinuti; on se sagne te je poljubi. U taj čas Ružica otvori oči, razbudi se i prijazno ga pogleda. Zatim siđu s tornja, a tad se probude kralj i kraljica i svi dvorjanici: gledahu jedno drugoga, ne razabirući se od čuđenja.
 
 Probudili se i konji u staji te se stali otresati; i lovački psi skakali i mahali repovima; golubovi na krovu izvukli glavice ispod krila, stali se ogledati i odletjeli u polje; oživjele i muhe na zidu; razbudila se vatra u kuhinji, stala plamtjeti i kuhati jelo; pečenka opet zacvrčila, kuhar udario momka te ovaj vrisnuo, a sluškinja operušala kokoš. Napokon proslavili svadbu, raskošnu i sjajnu, te kraljević poživio s Ružicom zadovoljno sve do smrti.
-# Siromah i bogataš – e-Lektire
+# 20. Siromah i bogataš – e-Lektire
 
 > U prastara vremena, kada je još Bog po zemlji hodao, desi se jednom te ga sustala od umora zatekla noć, prije negoli je znao, gdje će na konak. Kraj puta, kojim prolažaše, stajahu dvije kuće…
 
@@ -2288,7 +2386,7 @@ Htio ne htio, muž morade i treću želju izreći, da mu se žena oslobodi sedla
 
 Od svega bogataš nije ništa drugo imao doli srdžbe, truda, pogrda i propaloga konja; siromasi su živjeli zadovoljno, tiho i pobožno sve do svoga sretnoga svršetka.
 
-# Kralj Bradonja – e-Lektire
+# 21. Kralj Bradonja – e-Lektire
 
 > Imao neki kralj kćer, koja je bila neobično lijepa, ali ohola i obijesna, te joj nijedan prosac nije bio po volji. Odbijala ih sve jednoga za drugim, i još im se povrh toga rugala.
 
@@ -2414,7 +2512,7 @@ Najedamput stupi u dvoranu kraljević u svili i kadifi, sa zlatnim lančićima o
 
 Nato dođu dvorske sobarice, obuku je u prekrasne haljine, i otac je njezin došao s čitavom dvorskom svitom, da joj čestita na vjenčanju s kraljem Bradonjom; i prava se radost istom sada započe.
 
-# Doktor Sveznalica – e-Lektire
+# 22. Doktor Sveznalica – e-Lektire
 
 > Bio siromah seljak po imenu Rak. Taj jednoga dana dovezao u grad tovar drva te ih prodao nekom doktoru. Doktor je upravo ručao, te seljak, kad je primao novac, vidje kako doktor lijepo jede i pije…
 
@@ -2482,7 +2580,7 @@ Sad je onaj u peći mislio, da Doktor nišani na njega, pa skoči iz peći upla�
 – Ovaj čovjek zna sve!
 
 Nato Doktor Sveznalica pokaže gospodinu gdje se nalazi novac, a nije odao kradljivaca. I od njega i od njih dobije mnogo novaca kao nagradu i postane znamenit čovjek.
-# Snjeguljica – e-Lektire
+# 23. Snjeguljica – e-Lektire
 
 > Bilo usred zime; poput maska padale snježne pahuljice; kraj prozora s okvirom od crne ebanovine sjedila kraljica i šila. Pogledala kako sniježi, pa se u prst ubola, i tri kapi krvi pale u snijeg.
 
@@ -2717,7 +2815,7 @@ Ali Snjeguljica je ljepša nego vi._
 
 Nato ta zločesta žena opsuje nešto ružno, i spopane je takva tjeskoba, da ne znade šta će. Prvo ne htjede na svadbu; ali kako bijaše radoznala, ipak ode da vidi mladu kraljicu. Čim stupi u dvoranu, prepozna Snjeguljicu i od silnoga straha bude kao skamenjena. Ali već joj u dvoranu kliještima donesoše usijane željezne papuče, staviše ih pred nju i ona morade u njima plesati, sve dok mrtva ne pade na zemlju.
 
-# Mudri ljudi – e-Lektire
+# 24. Mudri ljudi – e-Lektire
 
 > Jednoga dana neki seljak uzme iz zakutka grabovu batinu i rekne svojoj ženi: – Katice, ja ću malko u svijet; vraćam se za tri dana. Dođe li trgovac da kupi naše tri krave, možeš ih prodati…
 
@@ -2820,7 +2918,7 @@ Kad je seljak stigao kući, smjesti konja u staju pokraj krave, ode k ženi i re
 
 Tako mišljaše seljak, ali tebi su glupaci zacijelo miliji.
 
-# Braco i seka – e-Lektire
+# 25. Braco i seka – e-Lektire
 
 > Braco uzeo svoju seku za ruku, pa joj rekao: – Otkada je umrla majka, nema nam više sreće; maćeha nas bije, i kad dođemo k njoj, odgurne nas nogom. Hrana nam ono malo tvrdih korica kruha…
 
@@ -2995,7 +3093,7 @@ Kralj se ne mogaše uzdržati, priđe k njoj i reče:
 
 – Da, ja sam tvoja draga žena – potvrdi ona. I toga časa oživje i bi zdrava, rumena i radosna. Zatim ispriča kralju o zločinu, što ga počiniše vještica i njezina kći. Kralj naloži da se obje izvedu na sud, i budu osuđene. Kćer odvedoše u šumu, te je razderaše divlje zvijeri, a vješticu baciše u vatru te je izgorjela. I kad od nje ne osta ništa drugo nego pepeo, lane opet poprimi ljudsko obličje. Seka i braco življahu otada zajedno i sretno sve do svoje smrti.
 
-# Siromašni mlinarski momčić i maca – e-Lektire
+# 26. Siromašni mlinarski momčić i maca – e-Lektire
 
 > U nekoj mlinici živio stari mlinar koji nemaše ni žene ni djece. U njega služila tri momka. Pošto su nekoliko godina u njega bili, jednoga im dana on reče: – Ostario sam: vrijeme je da se povučem u…
 
@@ -3076,7 +3174,7 @@ Prvo su se vozili do male kućice, što ju je Ivo sagradio srebrnim oruđem; ali
 
 Stoga neka nitko ne kaže, da ne bi mogao postati čestit, zato što je budalast.
 
-# Sretni Ivo – e-Lektire
+# 27. Sretni Ivo – e-Lektire
 
 > Ivo svome gospodaru služio sedam godina, a onda mu rekao: – Gospodaru, moje je vrijeme prošlo, i ja bih opet htio svojoj majci; dajte mi moju plaću. – Služio si mi vjerno i pošteno…
 

@@ -2,19 +2,19 @@
 
 # Sadržaj
 
- 1. Ukleti Kraljević i Čelik-Henrik   15. Crvenkapica
- 2. Klatež  16. Sedam gavrana
- 3. Priča o čovjeku koji je htio da nauči strahovati  17. Bremenski gradski svirači
- 4. Palčić  18. Mudra seljanka
- 5. Vuk i sedmoro jaradi   19. Trnoružica
- 6. Tri čovječuljka u šumi  20. Siromah i bogataš
- 7. Vjerni Ivan   21. Kralj Bradonja
- 8. Nahod-ptica  22. Doktor Sveznalica
- 9. Dvanaestorica braće  23. Snjeguljica
- 10. Mudra Jelka 24. Mudri ljudi
- 11. Šestorica obilaze svijetom 25. Braco i seka
- 12. Pas i vrabac   26. Siromašni mlinarski momčić i maca
- 13. Pepeljuga   27. Sretni Ivo
+ 1. Ukleti Kraljević i Čelik-Henrik                    15. Crvenkapica
+ 2. Klatež                                             16. Sedam gavrana
+ 3. Priča o čovjeku koji je htio da nauči strahovati   17. Bremenski gradski svirači
+ 4. Palčić                                             18. Mudra seljanka
+ 5. Vuk i sedmoro jaradi                               19. Trnoružica
+ 6. Tri čovječuljka u šumi                             20. Siromah i bogataš
+ 7. Vjerni Ivan                                        21. Kralj Bradonja
+ 8. Nahod-ptica                                        22. Doktor Sveznalica
+ 9. Dvanaestorica braće                                23. Snjeguljica
+ 10. Mudra Jelka                                       24. Mudri ljudi
+ 11. Šestorica obilaze svijetom                        25. Braco i seka
+ 12. Pas i vrabac                                      26. Siromašni mlinarski momčić i maca
+ 13. Pepeljuga                                         27. Sretni Ivo
 
 
 # 1. Ukleti Kraljević i Čelik-Henrik – e-Lektire

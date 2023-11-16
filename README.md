@@ -3,8 +3,11 @@
 # Sadržaj
 
  [1. Ukleti Kraljević i Čelik-Henrik](#ukleti-kraljevic-i-celik-henrik)ž
- 15. Crvenkapica
- 2. Klatež                                             16. Sedam gavrana
+ 
+ 
+ [2. Klatež](#klatez)
+ 
+ 16. Sedam gavrana
  3. Priča o čovjeku koji je htio da nauči strahovati   17. Bremenski gradski svirači
  4. Palčić                                             18. Mudra seljanka
  5. Vuk i sedmoro jaradi                               19. Trnoružica
@@ -15,7 +18,9 @@
  10. Mudra Jelka                                       24. Mudri ljudi
  11. Šestorica obilaze svijetom                        25. Braco i seka
  12. Pas i vrabac                                      26. Siromašni mlinarski momčić i maca
- 13. Pepeljuga                                         27. Sretni Ivo
+ 13. Pepeljuga
+ 14. 15. Crvenkapica
+ 15.                                                                           27. Sretni Ivo
 
 
 # Ukleti Kraljević i Čelik-Henrik
@@ -113,7 +118,7 @@ ondje žabom kad ste bili._
 
 Još je dvaput prasnulo, a kraljević je sveđ mislio, da se kola lome. Ali to samo obruči spadahu sa srca vjernome Henriku, jer mu gospodar bijaše slobodan i sretan.
 
-# 2. Klatež – e-Lektire
+# 2. Klatež
 
 > Reče pjetlić kokici: – U ovo vrijeme orasi dozrijevaju; hajdemo zajedno na brdo, da ih se jedamput najedemo, dok ih vjeverica ne odnese. – Dobro! – pristane kokica. – Hajde da se razveselimo.
 

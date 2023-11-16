@@ -5,7 +5,7 @@
  [1. Ukleti Kraljević i Čelik-Henrik](#ukleti-kraljevic-i-celik-henrik)ž
  
  
- [2. Klatež](#klatez)
+ [2. Klatež](#klatež)
  
  16. Sedam gavrana
  3. Priča o čovjeku koji je htio da nauči strahovati   17. Bremenski gradski svirači
@@ -118,7 +118,7 @@ ondje žabom kad ste bili._
 
 Još je dvaput prasnulo, a kraljević je sveđ mislio, da se kola lome. Ali to samo obruči spadahu sa srca vjernome Henriku, jer mu gospodar bijaše slobodan i sretan.
 
-# Klatez
+# Klatež
 
 > Reče pjetlić kokici: – U ovo vrijeme orasi dozrijevaju; hajdemo zajedno na brdo, da ih se jedamput najedemo, dok ih vjeverica ne odnese. – Dobro! – pristane kokica. – Hajde da se razveselimo.
 

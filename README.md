@@ -5,7 +5,7 @@
  [1. Ukleti Kraljević i Čelik-Henrik](#ukleti-kraljevic-i-celik-henrik)ž
  
  
- [2. Klatež](#klatez)
+ [2. Klatež](#2-klatez)
  
  16. Sedam gavrana
  3. Priča o čovjeku koji je htio da nauči strahovati   17. Bremenski gradski svirači

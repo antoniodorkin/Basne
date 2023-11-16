@@ -2,7 +2,8 @@
 
 # Sadržaj
 
- 1. Ukleti Kraljević i Čelik-Henrik                    15. Crvenkapica
+ [1. Ukleti Kraljević i Čelik-Henrik](#ukleti-kraljevic-i-celik-henrik)ž
+ 15. Crvenkapica
  2. Klatež                                             16. Sedam gavrana
  3. Priča o čovjeku koji je htio da nauči strahovati   17. Bremenski gradski svirači
  4. Palčić                                             18. Mudra seljanka
@@ -17,7 +18,7 @@
  13. Pepeljuga                                         27. Sretni Ivo
 
 
-# 1. Ukleti Kraljević i Čelik-Henrik – e-Lektire
+# Ukleti Kraljević i Čelik-Henrik
 
 > U staro doba, kad su se želje još ispunjale, živio neki kralj, koji je imao sve same lijepe kćeri, no najmlađa bila tako lijepa, te se i sunce, koje je toliko svijeta vidjelo, uvijek divilo…
 

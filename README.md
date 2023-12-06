@@ -1005,7 +1005,7 @@ Kralj se uzraduje kad je vidio da mu žena misli kao što je i on mislio, pa otv
 
 Otada življahu zajedno u sreći i blaženstvu sve do svoje smrti.
 ---
-# Nahod-ptica
+# Nahod ptica
 ---
 Bio jednom neki šumar, pa išao u šumu u lov; kad je stigao u šumu, očuje cviljenje, kao da plače malo dijete. Pođe on prema mjestu odakle je taj cvil dopirao, pa napokon dođe do nekoga visokog stabla, a ono navrh njega malo dijete.
 

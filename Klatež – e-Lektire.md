@@ -1,10 +1,3 @@
----
-created: 2023-12-06T16:12:16 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/klatez/
-author: 
----
-
 # Klatež 
 ---
 Reče pjetlić kokici:

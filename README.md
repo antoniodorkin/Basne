@@ -25,7 +25,7 @@
 [Mudri ljudi](#Mudri-ljudi)<br>
 [Braco i seka](#Braco-i-seka)<br>
 [Siromašni mlinarski momčić i maca](#Siromašni-mlinarski-momčić-i-maca)<br>
-[Sretni Ive](#Sretni-Ive)<br>
+[Sretni Iv0](#Sretni-Ivo)<br>
 
 # Ukleti Kraljević i Čelik-Henrik 
 ---

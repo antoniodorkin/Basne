@@ -5,11 +5,7 @@ source: https://lektire.skole.hr/stranica/bremenski-gradski-sviraci/
 author: 
 ---
 
-# Bremenski gradski svirači – e-Lektire
-
-> ## Excerpt
-> Imao čovjek magarca, koji je već mnogo godina strpljivo nosio vreće u mlinicu; ali magarcu snaga jenjavala, te on postajao sve nesposobniji za rad. Njegovu gospodaru pade na um da ga prestane hraniti…
-
+# Bremenski gradski svirači
 ---
 Imao čovjek magarca, koji je već mnogo godina strpljivo nosio vreće u mlinicu; ali magarcu snaga jenjavala, te on postajao sve nesposobniji za rad. Njegovu gospodaru pade na um da ga prestane hraniti, a magarac opazi da loš vjetar puše, te pobjegne i udari put Bremena; tamo bi, mišljaše, mogao postati gradski svirač.
 

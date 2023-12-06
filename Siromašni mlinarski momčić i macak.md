@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:15:05 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/siromasni-mlinarski-momcic-i-maca/
-author: 
----
-
-# Siromašni mlinarski momčić i maca – e-Lektire
-
-> ## Excerpt
-> U nekoj mlinici živio stari mlinar koji nemaše ni žene ni djece. U njega služila tri momka. Pošto su nekoliko godina u njega bili, jednoga im dana on reče: – Ostario sam: vrijeme je da se povučem u…
-
+# Siromašni mlinarski momčić i maca 
 ---
 U nekoj mlinici živio stari mlinar koji nemaše ni žene ni djece. U njega služila tri momka. Pošto su nekoliko godina u njega bili, jednoga im dana on reče:
 

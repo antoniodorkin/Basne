@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:13:47 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/sedam-gavrana/
-author: 
----
-
-# Sedam gavrana – e-Lektire
-
-> ## Excerpt
-> Imao neki čovjek sedam sinova, a nijedne kćeri, premda je želio; napokon se njegova žena opet ponada djetetu, i rodi djevojčicu. Radost bijaše velika, ali dijete slabašno i malo, pa ga dakle trebalo…
-
+# Sedam gavrana
 ---
 Imao neki čovjek sedam sinova, a nijedne kćeri, premda je želio; napokon se njegova žena opet ponada djetetu, i rodi djevojčicu.
 

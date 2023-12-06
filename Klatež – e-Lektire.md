@@ -5,11 +5,7 @@ source: https://lektire.skole.hr/stranica/klatez/
 author: 
 ---
 
-# Klatež – e-Lektire
-
-> ## Excerpt
-> Reče pjetlić kokici: – U ovo vrijeme orasi dozrijevaju; hajdemo zajedno na brdo, da ih se jedamput najedemo, dok ih vjeverica ne odnese. – Dobro! – pristane kokica. – Hajde da se razveselimo.
-
+# Klatež 
 ---
 Reče pjetlić kokici:
 

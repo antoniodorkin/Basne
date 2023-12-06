@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:13:30 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/mirko-i-milka/
-author: 
----
-
-# Mirko i Milka – e-Lektire
-
-> ## Excerpt
-> Bio čovjek, po imenu Mirko, i žena, po imenu Milka; oni se uzeli i počeli živjeti kao mladi bračni drugovi. Jednoga dana reče Mirko: – Milka, ja idem orati, pa dok se vratim, gledaj da bude štogod…
-
+# Mirko i Milka
 ---
 Bio čovjek, po imenu Mirko, i žena, po imenu Milka; oni se uzeli i počeli živjeti kao mladi bračni drugovi.
 

@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:15:12 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/sretni-ivo/
-author: 
----
-
-# Sretni Ivo – e-Lektire
-
-> ## Excerpt
-> Ivo svome gospodaru služio sedam godina, a onda mu rekao: – Gospodaru, moje je vrijeme prošlo, i ja bih opet htio svojoj majci; dajte mi moju plaću. – Služio si mi vjerno i pošteno…
-
+# Sretni Ivo 
 ---
 Ivo svome gospodaru služio sedam godina, a onda mu rekao:
 

@@ -9,7 +9,7 @@
 [Nahod-ptica](#Nahod-ptica)<br>
 [Dvanaestorica braće](#Dvanaestorica-braće)<br>
 [Mudra Jelka](#Mudra-Jelka)<br>
-[Šestorica obilaze svijetom](#Šestorica-obilaze-svjetom)<br>
+[Šestorica obilaze svijetom](#Šestorica-obilaze-svijetom)<br>
 [Pas i vrabac](#Pas-i-vrabac)<br>
 [Pepeljuga](#Pepeljuga)<br>
 [Mirko i Milka](#Mirko-i-Milka)<br>

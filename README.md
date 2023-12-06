@@ -1,7 +1,7 @@
 # Sadržaj
 [Ukleti Kraljević i Čelik-Henrik ](#Ukleti-Kraljević-i-Čelik-Henrik )<br>
 [Klatež](#Klatež)<br>
-[Priča o čovijeku koji je htio da nauči strahovati](#Priča-o-čovijeku-koji-je-htio-da-nauči-strahovati)<br>
+[Priča o čovijeku koji je htio da nauči strahovati](#Priča-o-čovijeku-koji-je-htio-da-nauči-strahovati )<br>
 [Palčić](#Palčić)<br>
 [Vuk i sedmero jaradi](#Vuk-i-sedmero-jaradi)<br>
 [Tri čovječuljka u šumi](#Tri-čovječuljka-u-šumi)<br>

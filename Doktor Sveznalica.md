@@ -1,10 +1,3 @@
----
-created: 2023-12-06T16:14:37 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/doktor-sveznalica/
-author: 
----
-
 # Doktor Sveznalica
 ---
 Bio siromah seljak po imenu Rak. Taj jednoga dana dovezao u grad tovar drva te ih prodao nekom doktoru.

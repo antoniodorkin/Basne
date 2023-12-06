@@ -1,10 +1,3 @@
----
-created: 2023-12-06T16:12:55 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/dvanaestorica-brace/
-author: 
----
-
 # Dvanaestorica braće 
 ---
 Bijahu jednom kralj kraljica i življahu sa svoje dvanaestoro djece, sve samih dječaka.

@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:12:20 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/prica-o-covjeku-koji-je-htio-da-nauci-strahovati/
-author: 
----
-
-# Priča o čovjeku koji je htio da nauči strahovati – e-Lektire
-
-> ## Excerpt
-> Bio jednom otac, što je imao dva sina: stariji mu bio pametan i mudar, te se u svemu snalazio, a mlađi glup, te ništa nije shvaćao ni učio. Videći mlađega, ljudi govorahu: »S ovim će otac imati muke!
-
+# Priča o čovjeku koji je htio da nauči strahovati
 ---
 Bio jednom otac, što je imao dva sina: stariji mu bio pametan i mudar, te se u svemu snalazio, a mlađi glup, te ništa nije shvaćao ni učio. Videći mlađega, ljudi govorahu: »S ovim će otac imati muke!«
 

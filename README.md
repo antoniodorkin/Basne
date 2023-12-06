@@ -6,7 +6,7 @@
 [Vuk i sedmoro jaradi](#Vuk-i-sedmoro-jaradi)<br>
 [Tri čovječuljka u šumi](#Tri-čovječuljka-u-šumi)<br>
 [Vjerni Ivan](#Vjerni-Ivan)<br>
-[Nahod ptica](#Nahot-ptica)<br>
+[Nahod ptica](#Nahod-ptica)<br>
 [Dvanaestorica braće](#Dvanaestorica-braće)<br>
 [Mudra Jelka](#Mudra-Jelka)<br>
 [Šestorica obilaze svijetom](#Šestorica-obilaze-svjetom)<br>

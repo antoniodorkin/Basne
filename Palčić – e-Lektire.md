@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:12:26 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/palcic/
-author: 
----
-
-# Palčić – e-Lektire
-
-> ## Excerpt
-> Bio neki siromašni seljak pa uvečer sjedio kod ognjišta i poticao vatru, dok mu žena prela. Jednom on reče ženi: – Doista je žalosno što nemamo djece! Tako je tiho u nas, a u drugim kućama bučno i…
-
+# Palčić 
 ---
 Bio neki siromašni seljak pa uvečer sjedio kod ognjišta i poticao vatru, dok mu žena prela. Jednom on reče ženi:
 

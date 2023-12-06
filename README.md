@@ -1,5 +1,5 @@
 # Sadržaj
-[Ukleti Kraljević i Čelik-Henrik ](#Ukleti Kraljević i Čelik-Henrik )
+[Ukleti Kraljević i Čelik-Henrik ](#Ukleti-Kraljević-i-Čelik-Henrik )
 []()
 []()
 []()

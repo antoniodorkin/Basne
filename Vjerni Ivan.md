@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:12:43 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/vjerni-ivan/
-author: 
----
-
-# Vjerni Ivan – e-Lektire
-
-> ## Excerpt
-> Živio jednom neki kralj, koji je bio star i bolestan; misleći da će mu postelja, na kojoj je ležao, biti samrtnička, reče: – Neka k meni dođe vjerni Ivan. Vjerni Ivan bijaše mu najdraži sluga…
-
+# Vjerni Ivan 
 ---
 Živio jednom neki kralj, koji je bio star i bolestan; misleći da će mu postelja, na kojoj je ležao, biti samrtnička, reče:
 

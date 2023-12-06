@@ -1,10 +1,3 @@
----
-created: 2023-12-06T16:14:59 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/braco-i-seka/
-author: 
----
-
 # Braco i seka
 ---
 Braco uzeo svoju seku za ruku, pa joj rekao:

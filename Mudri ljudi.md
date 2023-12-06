@@ -1,15 +1,5 @@
----
-created: 2023-12-06T16:14:52 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/mudri-ljudi/
-author: 
----
 
-# Mudri ljudi – e-Lektire
-
-> ## Excerpt
-> Jednoga dana neki seljak uzme iz zakutka grabovu batinu i rekne svojoj ženi: – Katice, ja ću malko u svijet; vraćam se za tri dana. Dođe li trgovac da kupi naše tri krave, možeš ih prodati…
-
+# Mudri ljudi
 ---
 Jednoga dana neki seljak uzme iz zakutka grabovu batinu i rekne svojoj ženi:
 

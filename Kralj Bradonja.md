@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:14:23 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/kralj-bradonja/
-author: 
----
-
 # Kralj Bradonja – e-Lektire
-
-> ## Excerpt
-> Imao neki kralj kćer, koja je bila neobično lijepa, ali ohola i obijesna, te joj nijedan prosac nije bio po volji. Odbijala ih sve jednoga za drugim, i još im se povrh toga rugala.
-
 ---
 Imao neki kralj kćer, koja je bila neobično lijepa, ali ohola i obijesna, te joj nijedan prosac nije bio po volji. Odbijala ih sve jednoga za drugim, i još im se povrh toga rugala.
 

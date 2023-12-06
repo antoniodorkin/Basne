@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:14:45 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/snjeguljica/
-author: 
----
-
-# Snjeguljica – e-Lektire
-
-> ## Excerpt
-> Bilo usred zime; poput maska padale snježne pahuljice; kraj prozora s okvirom od crne ebanovine sjedila kraljica i šila. Pogledala kako sniježi, pa se u prst ubola, i tri kapi krvi pale u snijeg.
-
+# Snjeguljica 
 ---
 Bilo usred zime; poput maska padale snježne pahuljice; kraj prozora s okvirom od crne ebanovine sjedila kraljica i šila. Pogledala kako sniježi, pa se u prst ubola, i tri kapi krvi pale u snijeg. Kako se rumenilo u bijelom snijegu lijepo isticalo, kraljica pomisli: »Da mi je dijete, bijelo kao snijeg, rumeno kao krv, a kose crne kao okviri od prozora!«
 

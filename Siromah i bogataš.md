@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:14:13 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/siromah-i-bogatas/
-author: 
----
-
-# Siromah i bogataš – e-Lektire
-
-> ## Excerpt
-> U prastara vremena, kada je još Bog po zemlji hodao, desi se jednom te ga sustala od umora zatekla noć, prije negoli je znao, gdje će na konak. Kraj puta, kojim prolažaše, stajahu dvije kuće…
-
+# Siromah i bogataš
 ---
 U prastara vremena, kada je još Bog po zemlji hodao, desi se jednom te ga sustala od umora zatekla noć, prije negoli je znao, gdje će na konak.
 

@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:12:49 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/nahod-ptica/
-author: 
----
-
-# Nahod-ptica – e-Lektire
-
-> ## Excerpt
-> Bio jednom neki šumar, pa išao u šumu u lov; kad je stigao u šumu, očuje cviljenje, kao da plače malo dijete. Pođe on prema mjestu odakle je taj cvil dopirao, pa napokon dođe do nekoga visokog stabla…
-
+# Nahod-ptica
 ---
 Bio jednom neki šumar, pa išao u šumu u lov; kad je stigao u šumu, očuje cviljenje, kao da plače malo dijete. Pođe on prema mjestu odakle je taj cvil dopirao, pa napokon dođe do nekoga visokog stabla, a ono navrh njega malo dijete.
 

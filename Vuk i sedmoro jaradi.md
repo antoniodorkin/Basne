@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:12:32 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/vuk-i-sedmoro-jaradi/
-author: 
----
-
-# Vuk i sedmoro jaradi – e-Lektire
-
-> ## Excerpt
-> Bila jednom stara koza; imala sedmoro jaradi, a voljela ih kao što majka voli svoju djecu. Jednoga se dana spremala u šumu po nešto krme, te ih sazva sve sedmoro i reče: – Draga djeco, ja ću u šumu…
-
+# Vuk i sedmoro jaradi 
 ---
 Bila jednom stara koza; imala sedmoro jaradi, a voljela ih kao što majka voli svoju djecu. Jednoga se dana spremala u šumu po nešto krme, te ih sazva sve sedmoro i reče:
 

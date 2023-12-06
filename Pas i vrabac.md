@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:13:16 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/pas-i-vrabac/
-author: 
----
-
-# Pas i vrabac – e-Lektire
-
-> ## Excerpt
-> Imao ovčarski pas loša gospodara, koji ga pustio da gladuje. Kako nije mogao kod njega više izdržati, pođe žalostan u svijet. Na cesti ga sretne vrabac i zapita: – Brate garove, zašto si tužan?
-
+# Pas i vrabac
 ---
 Imao ovčarski pas loša gospodara, koji ga pustio da gladuje. Kako nije mogao kod njega više izdržati, pođe žalostan u svijet.
 

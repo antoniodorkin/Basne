@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:12:37 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/tri-covjeculjka-u-sumi/
-author: 
----
-
-# Tri čovječuljka u šumi – e-Lektire
-
-> ## Excerpt
-> Bio neki čovjek pa mu umrla žena, a bila opet neka žena pa joj umro muž: čovjek imao kćer, i žena imala kćer. Obje djevojke bile dobre druge. Išle zajedno šetati, pa se poslije šetnje svratile udovici…
-
+# Tri čovječuljka u šumi
 ---
 Bio neki čovjek pa mu umrla žena, a bila opet neka žena pa joj umro muž: čovjek imao kćer, i žena imala kćer. Obje djevojke bile dobre druge. Išle zajedno šetati, pa se poslije šetnje svratile udovici u kuću.
 

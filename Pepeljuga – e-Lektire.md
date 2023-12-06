@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:13:22 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/pepeljuga-2/
-author: 
----
-
-# Pepeljuga – e-Lektire
-
-> ## Excerpt
-> Oboljela žena nekoga bogatoga čovjeka, pa kad je osjetila da joj se približava smrt, pozvala svoju jedinicu kćer k postelji te joj rekla: – Drago dijete, budi čedna i dobra, pa će ti uvijek dobro biti…
-
+# Pepeljuga 
 ---
 Oboljela žena nekoga bogatoga čovjeka, pa kad je osjetila da joj se približava smrt, pozvala svoju jedinicu kćer k postelji te joj rekla:
 

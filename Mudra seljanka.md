@@ -1,15 +1,4 @@
----
-created: 2023-12-06T16:14:00 (UTC +01:00)
-tags: []
-source: https://lektire.skole.hr/stranica/mudra-seljanka/
-author: 
----
-
-# Mudra seljanka – e-Lektire
-
-> ## Excerpt
-> Bio neki siromašan seljak bez zemlje; imao samo malu kućicu i jedinicu kćer. Jednoga dana reče kći ocu: – Mogli bismo zamoliti svoga kralja i gospodara, da nam dâ nešto krčevine. Kad je kralj čuo o…
-
+# Mudra seljanka
 ---
 Bio neki siromašan seljak bez zemlje; imao samo malu kućicu i jedinicu kćer. Jednoga dana reče kći ocu:
 

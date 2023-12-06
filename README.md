@@ -3,7 +3,7 @@
 [Klatež](#Klatež)<br>
 [Priča o čovjeku koji je htio da nauči strahovati](#Priča-o-čovjeku-koji-je-htio-da-nauči-strahovati)<br>
 [Palčić](#Palčić)<br>
-[Vuk i sedmero jaradi](#Vuk-i-sedmero-jaradi)<br>
+[Vuk i sedmoro jaradi](#Vuk-i-sedmoro-jaradi)<br>
 [Tri čovječuljka u šumi](#Tri-čovječuljka-u-šumi)<br>
 [Vjerni Ivan](#Vjerni-Ivan)<br>
 [Nahod ptica](#Nahot-ptica)<br>
